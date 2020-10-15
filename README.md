@@ -1,16 +1,22 @@
-### Hi there 👋
+### Wassup, Name's Harry 👋
 
-<!--
-**AO554/AO554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm mainly more of a Content Creator and Person whos addicted to fucking with old Server enterprise hardware.
 
-Here are some ideas to get you started:
+But hey, you can find a few random things here that might be good
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Alright, what do you do?
+
+Right now the two Repos you'll find somewhat useful are
+
+-[ConvertQEMUDisk](https://github.com/AO554/ConvertQEMUDisk)
+-[ThinkPad OpenCore EFI](https://github.com/AO554/ThinkPad-T440-OC-0.6.2)
+
+But in terms of dumb projects I have some to little envolvement in
+
+-[Blattom](https://github.com/SunburntRock89/Blattom)
+
+# Anything Else?
+
+[Website](https://ao554.com)
+[YouTube](https://youtube.com/user/UMadForAw3some)
+[Twitter](https://twitter.com/ao554yt)
