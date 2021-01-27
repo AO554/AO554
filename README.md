@@ -10,7 +10,7 @@ Right now the two Repos you'll find somewhat useful are
 
 -[ConvertQEMUDisk](https://github.com/AO554/ConvertQEMUDisk)
 
--[ThinkPad OpenCore EFI](https://github.com/AO554/ThinkPad-T440-OC-0.6.2)
+-[ThinkPad OpenCore EFI](https://github.com/AO554/ThinkPad-T440-Opencore)
 
 But in terms of dumb projects I have some to little envolvement in
 
