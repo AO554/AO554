@@ -6,7 +6,7 @@ But hey, you can find a few random things here that might be good
 
 # Alright, what do you do?
 
-Right now the two Repos you'll find somewhat useful are
+Right now the Repos you'll find somewhat useful are
 
 -[ConvertQEMUDisk](https://github.com/AO554/ConvertQEMUDisk)
 
