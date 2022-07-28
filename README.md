@@ -9,6 +9,7 @@ But hey, you can find a few random things here that might be good
 Right now the Repos you'll find somewhat useful are
 
 -[ConvertQEMUDisk](https://github.com/AO554/ConvertQEMUDisk)
+-[CVRConsoleChange](https://github.com/AO554/CVRConsoleChange)
 
 But in terms of dumb projects I have some to little envolvement in
 
