@@ -1,6 +1,6 @@
 ### Wassup, Name's Harry 👋
 
-I'm mainly more of a Content Creator and Person whos addicted to fucking with old Server enterprise hardware.
+I'm mainly more of a Content Creator and Person whos addicted to fucking about with old Server enterprise hardware.
 
 But hey, you can find a few random things here that might be good
 
