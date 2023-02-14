@@ -12,7 +12,6 @@ Right now the Repos you'll find somewhat useful are
 
 -[CVRConsoleChange](https://github.com/AO554/CVRConsoleChange)
 
--[HP 14s Hackintosh](https://github.com/AO554/HP-14s-dq1504sa-Hackintosh)
 
 But in terms of dumb projects I have some to little envolvement in
 
