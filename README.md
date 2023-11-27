@@ -10,6 +10,8 @@ Right now the Repos you'll find somewhat useful are
 
 -[ConvertQEMUDisk](https://github.com/AO554/ConvertQEMUDisk)
 
+-[stunnel-install](https://github.com/AO554/stunnel-install)
+
 -[CVRConsoleChange](https://github.com/AO554/CVRConsoleChange)
 
 -[MagicCap](https://github.com/MagicCap/MagicCap)
